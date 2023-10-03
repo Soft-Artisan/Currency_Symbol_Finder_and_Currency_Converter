@@ -5,7 +5,7 @@ currency match while the other used to find the rate of
 currency on the bases of the symbol provided by the user.
 
 
-The free API key can be obtain from : https://api.exchangerate.host/symbols
+The free API key can be obtain from : https://www.exchangerate-api.com/
 
 
 The value of Base currency which is 'USD' can easily be altered if required.
